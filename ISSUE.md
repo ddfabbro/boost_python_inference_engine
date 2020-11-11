@@ -1,5 +1,7 @@
 # Expose DLL that depends on Inference Engine to Python using Boost.Python
 
+> Original question posted on [Intel Community](https://community.intel.com/t5/Intel-Distribution-of-OpenVINO/Expose-DLL-that-depends-on-Inference-Engine-to-Python-using/m-p/1227403#M21412)
+
 I have created a DLL for Windows that depends on Inference Engine and now I want to develop a python package that uses this DLL.
 
 To create a python package that can access the functions of this DLL I am using [Boost.Python](https://www.boost.org/doc/libs/1_63_0/libs/python/doc/html/tutorial/index.html).
