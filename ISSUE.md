@@ -40,7 +40,7 @@ I have tried wrapping in a DLL one of the simplest Inference Engine samples avai
 ### My environment:
 
 - Visual Studio 2019
-- OpenVINO  2020.3 (Installed from precompiled binaries)
+- OpenVINO  2020.3 (Installed from precompiled binaries according to [official OpenVINO instalation for Windows](https://docs.openvinotoolkit.org/2020.3/_docs_install_guides_installing_openvino_windows.html#Install-Core-Components)
 - OpenCV 4.3 (Comes with OpenVINO 2020.3)
 - Boost  1.71
 - Python 3.7
